@@ -1,1 +1,15 @@
-
+Select an operation to perform the calculation:  
+ 1 Addition              2 Subtraction 
+ 3 Multiplication        4 Division 
+ 5 Square                6 Square Root 
+ 7 Exit
+ 
+ **After choosing operation--
+  - If operation is 1, then the result is a Addition of two numbers.
+  - If operation is 2, then the result is a Subtraction of two numbers.
+  - If operation is 3, then the result is a Multiplication of two numbers.
+  - If operation is 4, then the result is a Division of two numbers.
+  - If operation is 5, then the result is a Square of number.
+  - If operation is 6, then the result is a Square Root of number.
+  - If operation is 7, then the result is a Exit.
+ 
