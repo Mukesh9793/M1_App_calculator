@@ -3,12 +3,12 @@
                 /   |   \
                /    |    \
          INPUT   PROCESS   OUTPUT
-         /          |          \
-        /       Perform the     \
-       /         Operation       \
- Input &                          Display the 
- Store the                        Output
- Number    
+        /          |            \
+ Input &        Perform the      Display the
+ Store the      Operation        Output
+ Number                         
+                         
+     
            
            
      
