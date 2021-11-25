@@ -26,7 +26,7 @@ Modern electronic calculators vary from cheap, give-away, credit-card-sized mode
 
 But my calculator is very simple and perform very few tasks and its also not look like electronic or modern electronic calculators. So below you can see some steps to perfom any mathematical tasks-
 
-Step 1: Print the Choice (Addition, Subtraction, multiplication, division, etc.
+Step 1: Print the Choice (Addition, Subtraction, multiplication, division, Square, Square root, Percent, Power, etc.
 
 Step 2: Enter the Choice.
 
