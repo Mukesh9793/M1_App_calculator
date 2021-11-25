@@ -47,12 +47,13 @@
 1.	Advanced Featured calculator are already in the market.
 
 ### High Level Requirements
-|   ID  |	Description            	Status
+|   ID  | Description                    | Status      |
+|-------|--------------------------------|-------------|
 | HLR_1 | The user can create a new data | Implemented |
 | HLR_2 | The user can modify the data   | Implemented |
 | HLR_3 | The user can delete the data   | Implemented |
 | HLR_4 | The user can view the data	  | Implemented |
-|-------|--------------------------------|-------------|
+
 
 ### Low Level Requirements
 | ID |	Description	Status
