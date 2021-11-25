@@ -15,6 +15,33 @@
 5.	Square
 6.	Square root
 
+## State of art/Research
+An electronic calculator is typically a portable electronic device used to perform calculations, ranging from basic arithmetic to complex mathematics.
+
+The first solid-state electronic calculator was created in the early 1960s. Pocket-sized devices became available in the 1970s, especially after the Intel 4004, the first microprocessor, was developed by Intel for the Japanese calculator company Busicom.
+
+Casio_calculator
+
+Modern electronic calculators vary from cheap, give-away, credit-card-sized models to sturdy desktop models with built-in printers. They became popular in the mid-1970s as the incorporation of integrated circuits reduced their size and cost. By the end of that decade, prices had dropped to the point where a basic calculator was affordable to most and they became common in schools
+
+Casio-fx
+
+But my calculator is very simple and perform very few tasks and its also not look like electronic or modern electronic calculators. So below you can see some steps to perfom any mathematical tasks-
+
+Step 1: Print the Choice (Addition, Subtraction, multiplication, division, etc.
+
+Step 2: Enter the Choice.
+
+Step 3: Takes two numbers, n1 and n2
+
+Step 4: Switch case jump to an operator selected by the user
+
+Step 5: Store result into res variable.
+
+Step 6: Display the operation result
+
+Step 7: Exit from the program.
+
 ## 4W's and 1 H's
 
 ### Why:
