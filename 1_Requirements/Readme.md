@@ -17,48 +17,48 @@
 
 ## 4W's and 1 H's
 
-Why:
+### Why:
 1.	I'm making it for easy calculation.
 
-Where:
+### Where:
 1.	It can be done in the platform for easy calculation.
 
-Who:
+### Who:
 1.	It can be used by public.
 
-When:
+### When:
 1.	Anyone can use this easily.
 
-How:
+### How:
 1.	It will be helpful in calculation one by one detail.
 
-SWOT Analysis
+## SWOT Analysis
 
-Strengths
+### Strengths
 1.	Performing Calculation easy.
 
-Weakness
+### Weakness
 1.	It can't perform Trigonometry operation.
 
-Opportunities
+### Opportunities
 1.	Many process can be implemented to make it better.
 
-Threats
+### Threats
 1.	Advanced Featured calculator are already in the market.
 
-High Level Requirements
-ID	Description	Status
-HLR_1	The user can create a new data	Implemented
-HLR_2	The user can modify the data	Implemented
-HLR_3	The user can delete the data	Implemented
-HLR_4	The user can view the data	Implemented
+### High Level Requirements
+|   ID  |	Description            	Status
+| HLR_1 | The user can create a new data | Implemented |
+| HLR_2 | The user can modify the data   | Implemented |
+| HLR_3 | The user can delete the data   | Implemented |
+| HLR_4 | The user can view the data	  | Implemented |
+|-------|--------------------------------|-------------|
 
-Low Level Requirements
-ID	Description	Status
+### Low Level Requirements
+| ID |	Description	Status
 LLR_1	List of operations displayed	Implemented
 LLR_2	Input from the user	Implemented
 LLR_3	Exit the program	Implemented
 
-| ali | ghi|
-|-----|----|
+
 
