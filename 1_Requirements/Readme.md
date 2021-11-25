@@ -14,6 +14,8 @@
 4.	Division
 5.	Square
 6.	Square root
+7.	Percent
+8.	Power
 
 ## State of art/Research
 An electronic calculator is typically a portable electronic device used to perform calculations, ranging from basic arithmetic to complex mathematics.
