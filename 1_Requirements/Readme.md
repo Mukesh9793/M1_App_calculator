@@ -2,11 +2,11 @@
 
    In this project, i have done a Calculator in c program.
 
-# Objective
+## Objective
 
    The main objective of the project is used to Calculate Numeric value which is user effecient.
    
-# Features
+## Features
 
 1.	Addition
 2.	Subtraction
@@ -15,7 +15,7 @@
 5.	Square
 6.	Square root
 
-# 4W's and 1 H's
+## 4W's and 1 H's
 
 Why:
 1.	I'm making it for easy calculation.
