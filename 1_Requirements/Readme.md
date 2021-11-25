@@ -59,5 +59,6 @@ LLR_1	List of operations displayed	Implemented
 LLR_2	Input from the user	Implemented
 LLR_3	Exit the program	Implemented
 
-|ali |ghi|
+| ali | ghi|
+|-----|----|
 
