@@ -118,7 +118,7 @@ int main()
             printf("You chose: Percentage");
             printf("Enter First Number: ");
             scanf (" %d", &num1);
-            printf("Enter Second Number: ");
+            printf("Enter percentage Number: ");
             scanf (" %d", &num2);
             int per(int n1, int n2) 
                 {
@@ -136,7 +136,7 @@ int main()
             printf (" You chose: Power");  
             printf ("\n Enter First Number: ");  
             scanf (" %d", &num1);  
-            printf (" Enter Second Number: ");  
+            printf (" Enter power Number: ");  
             scanf (" %d", &num2);  
             res=pow(num1,num2);
             printf (" %d Power %d is: %.2f",num1,num2, res);
