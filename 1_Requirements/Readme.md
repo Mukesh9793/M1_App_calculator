@@ -89,12 +89,12 @@ Step 7: Exit from the program.
 1.	Advanced Featured calculator are already in the market.
 
 ### High Level Requirements
-|   ID  | Description                    | Status      |
-|-------|--------------------------------|-------------|
-| HLR_1 | The user can create a new data | Implemented |
-| HLR_2 | The user can modify the data   | Implemented |
-| HLR_3 | The user can delete the data   | Implemented |
-| HLR_4 | The user can view the data	  | Implemented |
+|   ID  | Description                                 | Status      |
+|-------|---------------------------------------------|-------------|
+| HLR_1 | The user can select the operation           | Implemented |
+| HLR_2 | The user give input for the operation       | Implemented |
+| HLR_3 | Input given by user must be a numeric value | Implemented |
+| HLR_4 | The user can view the output	               | Implemented |
 
 
 ### Low Level Requirements
