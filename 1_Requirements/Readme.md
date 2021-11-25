@@ -3,6 +3,7 @@
 This Calculator required some action according to user choice which are given below-
 
 1.digits - 0-9.
+
 2.some operators for performing operation like "Addition, Subtraction, Multiple, Division, Square, Square root, Percent, Power".
 
 ## Introduction
