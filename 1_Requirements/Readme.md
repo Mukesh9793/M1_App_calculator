@@ -1,4 +1,11 @@
-# Introduction
+#Requirements
+
+This Calculator required some action according to user choice which are given below-
+
+digits - 0-9.
+some operators for performing operation like "Addition, Subtraction, Multiple, Division, Square, Square root, Percent, Power".
+
+## Introduction
 
    In this project, i have done a Calculator in c program.
 
