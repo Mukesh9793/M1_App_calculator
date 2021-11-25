@@ -30,7 +30,7 @@ Step 1: Print the Choice (Addition, Subtraction, multiplication, division, Squar
 
 Step 2: Enter the Choice.
 
-Step 3: Takes two numbers, n1 and n2
+Step 3: Takes two numbers, num1 and num2
 
 Step 4: Switch case jump to an operator selected by the user
 
@@ -44,18 +44,23 @@ Step 7: Exit from the program.
 
 ### Why:
 1.	I'm making it for easy calculation.
+2.	It reduce the complexity of solving mathematical problem.
 
 ### Where:
 1.	It can be done in the platform for easy calculation.
+2.	IT can be used in our daily life mathematical problems any where.
+3.	It is mostly used in study, in shop, in exam etc.
 
 ### Who:
-1.	It can be used by public.
+1.	It can be used by anyone.
 
 ### When:
-1.	Anyone can use this easily.
+1.	Anyone can use this anywhere very easily.
+2.	It can be used for calculation
 
 ### How:
 1.	It will be helpful in calculation one by one detail.
+2.	In this first you give input after that it will give you output.
 
 ## SWOT Analysis
 
