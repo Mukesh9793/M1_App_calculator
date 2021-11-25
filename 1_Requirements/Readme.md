@@ -53,10 +53,11 @@ Step 7: Exit from the program.
 
 ### Who:
 1.	It can be used by anyone.
+2.	Basically it is used by Shopkeeper, student,etc.
 
 ### When:
 1.	Anyone can use this anywhere very easily.
-2.	It can be used for calculation
+2.	It can be used for calculation.
 
 ### How:
 1.	It will be helpful in calculation one by one detail.
@@ -66,9 +67,12 @@ Step 7: Exit from the program.
 
 ### Strengths
 1.	Performing Calculation easy.
+2.	It is user friendly and easy to use.
+3.	Arithmetic operational problems solved in few second.
 
 ### Weakness
 1.	It can't perform Trigonometry operation.
+2.	It can't perform matrix operation.
 
 ### Opportunities
 1.	Many process can be implemented to make it better.
