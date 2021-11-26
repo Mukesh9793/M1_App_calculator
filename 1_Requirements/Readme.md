@@ -98,11 +98,12 @@ Step 7: Exit from the program.
 
 
 ### Low Level Requirements
-|  ID   | Description                    | Status      |
-|-------|--------------------------------|-------------|
-| LLR_1 | List of operations displayed   | Implemented |
-| LLR_2 | Input from the user	           | Implemented |
-| LLR_3 | Exit the program               | Implemented |  
+|  ID   | Description                                    | Status      |
+|-------|------------------------------------------------|-------------|
+| LLR_1 | List of operations displayed                   | Implemented |
+| LLR_2 | Select appropriate option among operators sign | Implemented |
+| LLR_3 | Input from the user	                           | Implemented |
+| LLR_4 | Exit the program                               | Implemented |  
 
 
 
